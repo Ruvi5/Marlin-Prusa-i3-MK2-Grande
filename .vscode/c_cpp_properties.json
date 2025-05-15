@@ -8,7 +8,7 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/home/ruben/Documentos/Marlin/Marlin",
+                "/home/ruben/Documentos/Marlin/Marlin-Prusa-i3-MK2-Grande/Marlin",
                 "/home/ruben/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                 "/home/ruben/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "/home/ruben/.platformio/packages/framework-arduino-avr/variants/mega",
@@ -21,7 +21,7 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/ruben/Documentos/Marlin/Marlin",
+                    "/home/ruben/Documentos/Marlin/Marlin-Prusa-i3-MK2-Grande/Marlin",
                     "/home/ruben/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     "/home/ruben/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "/home/ruben/.platformio/packages/framework-arduino-avr/variants/mega",
